@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7fc413ae.css",
+    "main.js": "/static/js/main.dabaa332.js",
+    "static/css/318.5d0c2bfa.chunk.css": "/static/css/318.5d0c2bfa.chunk.css",
+    "static/js/318.f238b2e4.chunk.js": "/static/js/318.f238b2e4.chunk.js",
+    "static/css/785.f8600c76.chunk.css": "/static/css/785.f8600c76.chunk.css",
+    "static/js/785.25542a92.chunk.js": "/static/js/785.25542a92.chunk.js",
+    "static/css/357.bfa8fc5c.chunk.css": "/static/css/357.bfa8fc5c.chunk.css",
+    "static/js/357.e9e4ee61.chunk.js": "/static/js/357.e9e4ee61.chunk.js",
+    "static/css/289.28b7a919.chunk.css": "/static/css/289.28b7a919.chunk.css",
+    "static/js/289.670a1efa.chunk.js": "/static/js/289.670a1efa.chunk.js",
+    "static/css/937.87649fde.chunk.css": "/static/css/937.87649fde.chunk.css",
+    "static/js/937.540d0e2e.chunk.js": "/static/js/937.540d0e2e.chunk.js",
+    "static/js/453.6f4e01f1.chunk.js": "/static/js/453.6f4e01f1.chunk.js",
+    "index.html": "/index.html",
+    "main.7fc413ae.css.map": "/static/css/main.7fc413ae.css.map",
+    "main.dabaa332.js.map": "/static/js/main.dabaa332.js.map",
+    "318.5d0c2bfa.chunk.css.map": "/static/css/318.5d0c2bfa.chunk.css.map",
+    "318.f238b2e4.chunk.js.map": "/static/js/318.f238b2e4.chunk.js.map",
+    "785.f8600c76.chunk.css.map": "/static/css/785.f8600c76.chunk.css.map",
+    "785.25542a92.chunk.js.map": "/static/js/785.25542a92.chunk.js.map",
+    "357.bfa8fc5c.chunk.css.map": "/static/css/357.bfa8fc5c.chunk.css.map",
+    "357.e9e4ee61.chunk.js.map": "/static/js/357.e9e4ee61.chunk.js.map",
+    "289.28b7a919.chunk.css.map": "/static/css/289.28b7a919.chunk.css.map",
+    "289.670a1efa.chunk.js.map": "/static/js/289.670a1efa.chunk.js.map",
+    "937.87649fde.chunk.css.map": "/static/css/937.87649fde.chunk.css.map",
+    "937.540d0e2e.chunk.js.map": "/static/js/937.540d0e2e.chunk.js.map",
+    "453.6f4e01f1.chunk.js.map": "/static/js/453.6f4e01f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fc413ae.css",
+    "static/js/main.dabaa332.js"
+  ]
+}
